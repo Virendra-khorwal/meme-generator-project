@@ -1,0 +1,20 @@
+
+.navbar {
+    background: rgb(103,34,128);
+    background: linear-gradient(90deg, rgba(103,34,128,1) 0%, rgba(166,38,211,1) 100%);
+    color: aliceblue;
+    display: flex;
+    padding: 5px 20px;
+    align-items: center;
+   
+
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.side-heading {
+    margin-left: auto;
+}
+
